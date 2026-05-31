@@ -1,0 +1,22 @@
+{
+  "name": "Lisa Daily",
+  "short_name": "Lisa Daily",
+  "description": "Rutinet e mia ditore",
+  "start_url": "/routine-app/",
+  "display": "standalone",
+  "background_color": "#f8f7f5",
+  "theme_color": "#D4537E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=lisa&backgroundColor=D4537E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=lisa&backgroundColor=D4537E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
